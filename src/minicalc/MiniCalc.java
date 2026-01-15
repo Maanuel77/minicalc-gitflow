@@ -1,3 +1,4 @@
+// MiniCalc v1.0.0
 package minicalc;
 
 public class MiniCalc {
